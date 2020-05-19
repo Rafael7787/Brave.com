@@ -1,0 +1,2 @@
+# Brave.com
+Navegador seguro
